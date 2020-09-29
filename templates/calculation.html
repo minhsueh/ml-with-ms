@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+   <head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='./css/main1.css') }}" />
+  </head>
+    <body> 
+        <p>
+          <a href="{{ url_for('index') }} " style="color:white;">Return</a>
+        </p>
+        <form action = "{{ url_for('calculation', 
+            homo_desire = homo_desire,
+            lumo_desire = lumo_desire,
+            ramdom_sample_value = ramdom_sample_value,
+            dis = dis,
+            std =std) }}" >
+        </form>
+
+        <div class="float-container">
+          <div id="loading" class="float-child" align="middle"
+            style ="
+                background-image: url('/static/back.gif');
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: 700px 700px;
+                "
+              >
+            </style>
+          </div>
+          
+          
+        </div>
+      
+   </body>
+</html>
