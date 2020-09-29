@@ -1,0 +1,9 @@
+Flask
+gunicorn
+pandas
+numpy
+matplotlib
+keras == 2.1.2
+tensorflow == 1.14.0
+scipy
+sklearn

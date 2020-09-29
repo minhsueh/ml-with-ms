@@ -1,0 +1,1 @@
+web gunicorn web_8_ReduceMemory:app
