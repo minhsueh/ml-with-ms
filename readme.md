@@ -4,23 +4,15 @@ The organic material query system with HOMO and LUMO properties.
 
 Required packages:
 
-rdkit == 2020.03.2
-
-keras == 2.1.2
-
-tensorflow == 1.14.0
-
-flask == 1.1.2
-
-pandas == 1.0.3
-
-numpy == 1.18.1
-
-matplotlib == 3.2.1
-
-scipy == 1.4.1
-
-sklearn == 0.23.1
+rdkit == 2020.03.2<br/>
+keras == 2.1.2<br/>
+tensorflow == 1.14.0<br/>
+flask == 1.1.2<br/>
+pandas == 1.0.3<br/>
+numpy == 1.18.1<br/>
+matplotlib == 3.2.1<br/>
+scipy == 1.4.1<br/>
+sklearn == 0.23.1<br/>
 
 
 
