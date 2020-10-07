@@ -1,4 +1,5 @@
-The organic material query system with HOMO and LUMO properties.
+The organic material query system for HOMO and LUMO properties.<br/>
+Medium link for more information: https://medium.com/@minhsueh
 
 -------------------------
 
@@ -13,6 +14,8 @@ numpy == 1.18.1<br/>
 matplotlib == 3.2.1<br/>
 scipy == 1.4.1<br/>
 sklearn == 0.23.1<br/>
+
+-------------------------
 
 
 
